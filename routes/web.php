@@ -33,6 +33,15 @@ Route::get('/calendarizacion', function () {
     return view('contenidos.Calendarizacion');
 });
 
+Route::get('/presentacion', function () {
+    return view('contenidos.Carta');
+});
+
+Route::get('/tareas', function () {
+    return view('bitacora.tareas');
+});
+
+
 
 
 
