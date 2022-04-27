@@ -41,6 +41,31 @@ Route::get('/tareas', function () {
     return view('bitacora.tareas');
 });
 
+Route::get('/investigaciones', function () {
+    return view('bitacora.investigaciones');
+});
+
+Route::get('/practicas', function () {
+    return view('bitacora.practicas');
+});
+
+Route::get('/laboratorios', function () {
+    return view('bitacora.laboratorios');
+});
+
+Route::get('/proyectos', function () {
+    return view('bitacora.proyectos');
+});
+
+
+Route::get('/materiales', function () {
+    return view('bitacora.materiales');
+});
+
+
+
+
+
 
 
 

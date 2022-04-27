@@ -43,12 +43,12 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="/tareas">Tareas ex-aula</a></li>
-            <li><a class="dropdown-item" href="#">Investigaciones</a></li>
-            <li><a class="dropdown-item" href="#">Practicas desarrolladas</a></li>
+            <li><a class="dropdown-item" href="/investigaciones">Investigaciones</a></li>
+            <li><a class="dropdown-item" href="/practicas">Practicas desarrolladas</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Laboratorios</a></li>
-            <li><a class="dropdown-item" href="#">Proyectos individuales y grupales</a></li>
-            <li><a class="dropdown-item" href="#">Materiales de apoyo</a></li>
+            <li><a class="dropdown-item" href="/laboratorios">Laboratorios</a></li>
+            <li><a class="dropdown-item" href="/proyectos">Proyectos individuales y grupales</a></li>
+            <li><a class="dropdown-item" href="/materiales">Materiales de apoyo</a></li>
           </ul>
          
         </li>
